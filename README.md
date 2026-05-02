@@ -1,17 +1,3 @@
-<!--
-==========================================================================
-  GITHUB PROFILE README — TEMPLATE
-  How to use:
-    1. Create a NEW repository on GitHub with the EXACT same name
-       as your username (e.g. user "jeansilva" → repo "jeansilva").
-    2. Make it PUBLIC.
-    3. Check the option "Add a README file" when creating.
-    4. Replace this file's content with the content below the line.
-    5. Replace every [PLACEHOLDER] with your real info.
-    6. Commit. Done — it shows up at github.com/your-username
-==========================================================================
--->
-
 <h1 align="center">Hi, I'm Jean Joseph 👋</h1>
 
 <p align="center">
@@ -27,14 +13,15 @@
 
 ### About me
 
-I'm a Civil Engineer with a PhD in Geosciences, currently working at a multinational in the petrochemical sector. Over the last few years I've shifted my focus to **building production-grade AI solutions for the industrial domain** — mine closure, well analysis, knowledge management, and technical workflows where deep domain knowledge meets modern LLMs.
+I'm a Geomechanical Engineer with a PhD in Geosciences, currently working at a multinational in the petrochemical sector. Over the last few years I've shifted my focus to **building production-grade AI solutions for the industrial domain** — well analysis, technical workflows, and engineering systems where deep domain knowledge meets modern LLMs.
 
-I'm currently expanding my work into **LLM orchestration, RAG systems, and AI agents** that solve real problems in heavy industry, energy, and geosciences.
+Recent work: designed AI-powered solutions integrating Azure OpenAI with internal data systems for technical document analysis.
 
-### What I'm currently building 
+I'm now expanding my work into **LLM orchestration, RAG systems, and AI agents** that solve real problems in heavy industry, energy, and geosciences.
+
+### What I'm currently building
 
 - 🛢️ **PetroView 3D** — A web-based 3D viewer for oil well trajectories with engineering plots and DLS analysis
-- 📚 **Knowledge management system** — Self-onboarding architecture for technical teams using the Microsoft 365 ecosystem
 - 🤖 **AI agents for industrial compliance** — Exploring RAG pipelines over technical standards (ANM, NBR 13.029)
 
 ### Tech stack
@@ -49,7 +36,7 @@ I'm currently expanding my work into **LLM orchestration, RAG systems, and AI ag
 `Microsoft Azure` · `SharePoint` · `Power Platform`
 
 **Geosciences & engineering**
-`Well trajectory analysis` · `Mine closure (ANM / NBR 13.029)` · `Technical knowledge management` and `Geomechanics`
+`Well trajectory analysis` · `Mine closure (ANM / NBR 13.029)` · `Technical knowledge management` · `Geomechanics`
 
 ### Currently learning
 
@@ -66,11 +53,11 @@ I'm on a 12-month journey to deepen my AI engineering skills. You'll see this re
 
 ### Let's connect
 
-I'm always open to conversations about **AI in heavy industry, geosciences, energy, and technical knowledge systems**.
+Always happy to discuss **AI applied to heavy industry, geosciences, energy, and technical knowledge systems** — feel free to reach out.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jeanbjosephht/
-- 📫 Email: jeanjbluxe@gmail.com
-- 🌎 Based in Maceió, Brazil — open to remote opportunities worldwide
+- 💼 LinkedIn: [linkedin.com/in/jeanbjosephht](https://www.linkedin.com/in/jeanbjosephht/)
+- 📫 Email: [jeanjbluxe@gmail.com](mailto:jeanjbluxe@gmail.com)
+- 🌎 Based in Recife, Brazil
 
 ---
 
@@ -79,10 +66,10 @@ I'm always open to conversations about **AI in heavy industry, geosciences, ener
 
 <br>
 
-Sou Engenheiro Civil com Doutorado em Geociências, atuando em uma multinacional do setor petroquímico. Nos últimos anos venho direcionando meu foco para **construção de soluções de IA em produção para o domínio industrial** — encerramento de minas, análise de poços, gestão do conhecimento e workflows técnicos onde conhecimento de domínio profundo encontra LLMs modernos.
+Sou Engenheiro Geomecânico com Doutorado em Geociências, atuando em uma multinacional do setor petroquímico. Nos últimos anos venho direcionando meu foco para **construção de soluções de IA em produção para o domínio industrial** — análise de poços, workflows técnicos e sistemas de engenharia onde conhecimento de domínio profundo encontra LLMs modernos.
 
 Atualmente estou expandindo meu trabalho para **orquestração de LLMs, sistemas RAG e agentes de IA** que resolvem problemas reais na indústria pesada, energia e geociências.
 
-**Estou aberto a oportunidades remotas no Brasil e no exterior.** Sinta-se à vontade para me chamar no LinkedIn.
+Sempre interessado em conversar sobre **IA aplicada a indústria pesada, geociências, energia e sistemas de conhecimento técnico**. Sinta-se à vontade para me chamar no LinkedIn.
 
 </details>
