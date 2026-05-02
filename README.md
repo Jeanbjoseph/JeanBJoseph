@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeanbjosephht/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Location-Maceió,_Brazil-005C4B?style=flat" alt="Location">
+  <img src="https://img.shields.io/badge/Location-Recife,_Brazil-005C4B?style=flat" alt="Location">
 </p>
 
 ---
