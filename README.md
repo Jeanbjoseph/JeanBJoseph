@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jeanbjosephht/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Location-Maceió,_Brazil-005C4B?style=flat" alt="Location">
-  <img src="https://img.shields.io/badge/Open_to-Remote_Work-2EA44F?style=flat" alt="Open to Remote Work">
+  <img src="https://img.shields.io/badge/Open_to-Remote_Work-2EA44F?style=flat" alt="">
 </p>
 
 ---
